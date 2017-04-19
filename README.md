@@ -1,9 +1,14 @@
-# api documentation for  [karma-chrome-launcher (v2.0.0)](https://github.com/karma-runner/karma-chrome-launcher#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-karma-chrome-launcher.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-karma-chrome-launcher) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-karma-chrome-launcher.svg)](https://travis-ci.org/npmdoc/node-npmdoc-karma-chrome-launcher)
+# npmdoc-karma-chrome-launcher
+
+#### api documentation for  [karma-chrome-launcher (v2.0.0)](https://github.com/karma-runner/karma-chrome-launcher#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-karma-chrome-launcher.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-karma-chrome-launcher) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-karma-chrome-launcher.svg)](https://travis-ci.org/npmdoc/node-npmdoc-karma-chrome-launcher)
+
 #### A Karma plugin. Launcher for Chrome and Chrome Canary.
 
-[![NPM](https://nodei.co/npm/karma-chrome-launcher.png?downloads=true)](https://www.npmjs.com/package/karma-chrome-launcher)
+[![NPM](https://nodei.co/npm/karma-chrome-launcher.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/karma-chrome-launcher)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-karma-chrome-launcher/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-karma-chrome-launcher_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-karma-chrome-launcher/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-karma-chrome-launcher/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-karma-chrome-launcher/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-karma-chrome-launcher/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-karma-chrome-launcher/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-karma-chrome-launcher/build/screenCapture.npmPackageListing.svg)
 
@@ -17,92 +22,71 @@
 
 {
     "author": {
-        "name": "Vojta Jina",
-        "email": "vojta.jina@gmail.com"
+        "name": "Vojta Jina"
     },
     "bugs": {
         "url": "https://github.com/karma-runner/karma-chrome-launcher/issues"
     },
     "contributors": [
         {
-            "name": "Mark Ethan Trostler",
-            "email": "mark@zzo.com"
+            "name": "Mark Ethan Trostler"
         },
         {
-            "name": "dignifiedquire",
-            "email": "dignifiedquire@gmail.com"
+            "name": "dignifiedquire"
         },
         {
-            "name": "Mark Trostler",
-            "email": "mark@zzo.com"
+            "name": "Mark Trostler"
         },
         {
-            "name": "Friedel Ziegelmayer",
-            "email": "dignifiedquire@gmail.com"
+            "name": "Friedel Ziegelmayer"
         },
         {
-            "name": "Friedel Ziegelmayer",
-            "email": "friedel.ziegelmayer@gmail.com"
+            "name": "Friedel Ziegelmayer"
         },
         {
-            "name": "Andrey Taranov",
-            "email": "andrey.taranov@nordea.com"
+            "name": "Andrey Taranov"
         },
         {
-            "name": "Aymeric Beaumet",
-            "email": "aymeric@beaumet.me"
+            "name": "Aymeric Beaumet"
         },
         {
-            "name": "Filipe Guerra",
-            "email": "alias.mac@gmail.com"
+            "name": "Filipe Guerra"
         },
         {
-            "name": "David",
-            "email": "davidsu@wix.com"
+            "name": "David"
         },
         {
-            "name": "Julien Sanchez",
-            "email": "julien.sanchez@lim.eu"
+            "name": "Julien Sanchez"
         },
         {
-            "name": "Jeff Cross",
-            "email": "middlefloor@gmail.com"
+            "name": "Jeff Cross"
         },
         {
-            "name": "Hai Feng Kao",
-            "email": "haifeng@cocoaspice.in"
+            "name": "Hai Feng Kao"
         },
         {
-            "name": "Marko Vuksanovic",
-            "email": "markovuksanovic@gmail.com"
+            "name": "Marko Vuksanovic"
         },
         {
-            "name": "Michał Gołębiowski",
-            "email": "m.goleb@gmail.com"
+            "name": "Michał Gołębiowski"
         },
         {
-            "name": "Michał Gołębiowski",
-            "email": "m.goleb@gmail.com"
+            "name": "Michał Gołębiowski"
         },
         {
-            "name": "Parashuram N",
-            "email": "code@r.nparashuram.com"
+            "name": "Parashuram N"
         },
         {
-            "name": "Timo Tijhof",
-            "email": "krinklemail@gmail.com"
+            "name": "Timo Tijhof"
         },
         {
-            "name": "Vincent Voyer",
-            "email": "vincent.voyer@algolia.com"
+            "name": "Vincent Voyer"
         },
         {
-            "name": "Florian-R",
-            "email": "florian.r.dev@gmail.com"
+            "name": "Florian-R"
         },
         {
-            "name": "Joe Doyle",
-            "email": "valdain@gmail.com"
+            "name": "Joe Doyle"
         }
     ],
     "dependencies": {
@@ -147,25 +131,20 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "vojtajina",
-            "email": "vojta.jina+npm@gmail.com"
+            "name": "vojtajina"
         },
         {
-            "name": "zzo",
-            "email": "mark@zzo.com"
+            "name": "zzo"
         },
         {
-            "name": "dignifiedquire",
-            "email": "dignifiedquire@gmail.com"
+            "name": "dignifiedquire"
         },
         {
-            "name": "karmarunnerbot",
-            "email": "karmarunnerbot@gmail.com"
+            "name": "karmarunnerbot"
         }
     ],
     "name": "karma-chrome-launcher",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/karma-runner/karma-chrome-launcher.git"
@@ -175,80 +154,6 @@
     },
     "version": "2.0.0"
 }
-```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module karma-chrome-launcher](#apidoc.module.karma-chrome-launcher)
-1.  object <span class="apidocSignatureSpan">karma-chrome-launcher.</span>test
-
-#### [module karma-chrome-launcher.test](#apidoc.module.karma-chrome-launcher.test)
-1.  [function <span class="apidocSignatureSpan">karma-chrome-launcher.test.</span>canaryGetOptions (url, args, parent)](#apidoc.element.karma-chrome-launcher.test.canaryGetOptions)
-1.  [function <span class="apidocSignatureSpan">karma-chrome-launcher.test.</span>isJSFlags (flag)](#apidoc.element.karma-chrome-launcher.test.isJSFlags)
-1.  [function <span class="apidocSignatureSpan">karma-chrome-launcher.test.</span>sanitizeJSFlags (flag)](#apidoc.element.karma-chrome-launcher.test.sanitizeJSFlags)
-
-
-
-# <a name="apidoc.module.karma-chrome-launcher"></a>[module karma-chrome-launcher](#apidoc.module.karma-chrome-launcher)
-
-
-
-# <a name="apidoc.module.karma-chrome-launcher.test"></a>[module karma-chrome-launcher.test](#apidoc.module.karma-chrome-launcher.test)
-
-#### <a name="apidoc.element.karma-chrome-launcher.test.canaryGetOptions"></a>[function <span class="apidocSignatureSpan">karma-chrome-launcher.test.</span>canaryGetOptions (url, args, parent)](#apidoc.element.karma-chrome-launcher.test.canaryGetOptions)
-- description and source-code
-```javascript
-function canaryGetOptions(url, args, parent) {
-  // disable crankshaft optimizations, as it causes lot of memory leaks (as of Chrome 23.0)
-  var flags = args.flags || []
-  var augmentedFlags
-  var customFlags = '--nocrankshaft --noopt'
-
-  flags.forEach(function (flag) {
-    if (isJSFlags(flag)) {
-      augmentedFlags = sanitizeJSFlags(flag) + ' ' + customFlags
-    }
-  })
-
-  return parent.call(this, url).concat([augmentedFlags || '--js-flags=' + customFlags])
-}
-```
-- example usage
-```shell
-n/a
-```
-
-#### <a name="apidoc.element.karma-chrome-launcher.test.isJSFlags"></a>[function <span class="apidocSignatureSpan">karma-chrome-launcher.test.</span>isJSFlags (flag)](#apidoc.element.karma-chrome-launcher.test.isJSFlags)
-- description and source-code
-```javascript
-function isJSFlags(flag) {
-  return flag.indexOf('--js-flags=') === 0
-}
-```
-- example usage
-```shell
-n/a
-```
-
-#### <a name="apidoc.element.karma-chrome-launcher.test.sanitizeJSFlags"></a>[function <span class="apidocSignatureSpan">karma-chrome-launcher.test.</span>sanitizeJSFlags (flag)](#apidoc.element.karma-chrome-launcher.test.sanitizeJSFlags)
-- description and source-code
-```javascript
-function sanitizeJSFlags(flag) {
-  var test = /--js-flags=(['"])/.exec(flag)
-  if (!test) {
-    return flag
-  }
-  var escapeChar = test[1]
-  var endExp = new RegExp(escapeChar + '$')
-  var startExp = new RegExp('--js-flags=' + escapeChar)
-  return flag.replace(startExp, '--js-flags=').replace(endExp, '')
-}
-```
-- example usage
-```shell
-n/a
 ```
 
 
