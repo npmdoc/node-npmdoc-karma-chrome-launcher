@@ -1,6 +1,6 @@
 # npmdoc-karma-chrome-launcher
 
-#### api documentation for  [karma-chrome-launcher (v2.0.0)](https://github.com/karma-runner/karma-chrome-launcher#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-karma-chrome-launcher.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-karma-chrome-launcher) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-karma-chrome-launcher.svg)](https://travis-ci.org/npmdoc/node-npmdoc-karma-chrome-launcher)
+#### api documentation for  karma-chrome-launcher (v2.0.0)  [![npm package](https://img.shields.io/npm/v/npmdoc-karma-chrome-launcher.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-karma-chrome-launcher) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-karma-chrome-launcher.svg)](https://travis-ci.org/npmdoc/node-npmdoc-karma-chrome-launcher)
 
 #### A Karma plugin. Launcher for Chrome and Chrome Canary.
 
@@ -21,79 +21,28 @@
 ```json
 
 {
-    "author": {
-        "name": "Vojta Jina"
+    "name": "karma-chrome-launcher",
+    "version": "2.0.0",
+    "description": "A Karma plugin. Launcher for Chrome and Chrome Canary.",
+    "main": "index.js",
+    "scripts": {
+        "test": "grunt test"
     },
-    "bugs": {
-        "url": "https://github.com/karma-runner/karma-chrome-launcher/issues"
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/karma-runner/karma-chrome-launcher.git"
     },
-    "contributors": [
-        {
-            "name": "Mark Ethan Trostler"
-        },
-        {
-            "name": "dignifiedquire"
-        },
-        {
-            "name": "Mark Trostler"
-        },
-        {
-            "name": "Friedel Ziegelmayer"
-        },
-        {
-            "name": "Friedel Ziegelmayer"
-        },
-        {
-            "name": "Andrey Taranov"
-        },
-        {
-            "name": "Aymeric Beaumet"
-        },
-        {
-            "name": "Filipe Guerra"
-        },
-        {
-            "name": "David"
-        },
-        {
-            "name": "Julien Sanchez"
-        },
-        {
-            "name": "Jeff Cross"
-        },
-        {
-            "name": "Hai Feng Kao"
-        },
-        {
-            "name": "Marko Vuksanovic"
-        },
-        {
-            "name": "Michał Gołębiowski"
-        },
-        {
-            "name": "Michał Gołębiowski"
-        },
-        {
-            "name": "Parashuram N"
-        },
-        {
-            "name": "Timo Tijhof"
-        },
-        {
-            "name": "Vincent Voyer"
-        },
-        {
-            "name": "Florian-R"
-        },
-        {
-            "name": "Joe Doyle"
-        }
+    "keywords": [
+        "karma-plugin",
+        "karma-launcher",
+        "chrome"
     ],
+    "author": "Vojta Jina <vojta.jina@gmail.com>",
     "dependencies": {
         "fs-access": "^1.0.0",
         "which": "^1.2.1"
     },
-    "description": "A Karma plugin. Launcher for Chrome and Chrome Canary.",
+    "license": "MIT",
     "devDependencies": {
         "chai": "^3.3.0",
         "eslint": "^1.6.0",
@@ -115,44 +64,28 @@
         "mocha": "^2.3.3",
         "sinon": "^1.17.1"
     },
-    "directories": {},
-    "dist": {
-        "shasum": "c2790c5a32b15577d0fff5a4d5a2703b3b439c25",
-        "tarball": "https://registry.npmjs.org/karma-chrome-launcher/-/karma-chrome-launcher-2.0.0.tgz"
-    },
-    "gitHead": "4110f87beb51ec45e23b4fc186957c2789a93b9a",
-    "homepage": "https://github.com/karma-runner/karma-chrome-launcher#readme",
-    "keywords": [
-        "karma-plugin",
-        "karma-launcher",
-        "chrome"
-    ],
-    "license": "MIT",
-    "main": "index.js",
-    "maintainers": [
-        {
-            "name": "vojtajina"
-        },
-        {
-            "name": "zzo"
-        },
-        {
-            "name": "dignifiedquire"
-        },
-        {
-            "name": "karmarunnerbot"
-        }
-    ],
-    "name": "karma-chrome-launcher",
-    "optionalDependencies": {},
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/karma-runner/karma-chrome-launcher.git"
-    },
-    "scripts": {
-        "test": "grunt test"
-    },
-    "version": "2.0.0"
+    "contributors": [
+        "Mark Ethan Trostler <mark@zzo.com>",
+        "dignifiedquire <dignifiedquire@gmail.com>",
+        "Mark Trostler <mark@zzo.com>",
+        "Friedel Ziegelmayer <dignifiedquire@gmail.com>",
+        "Friedel Ziegelmayer <friedel.ziegelmayer@gmail.com>",
+        "Andrey Taranov <andrey.taranov@nordea.com>",
+        "Aymeric Beaumet <aymeric@beaumet.me>",
+        "Filipe Guerra <alias.mac@gmail.com>",
+        "David <davidsu@wix.com>",
+        "Julien Sanchez <julien.sanchez@lim.eu>",
+        "Jeff Cross <middlefloor@gmail.com>",
+        "Hai Feng Kao <haifeng@cocoaspice.in>",
+        "Marko Vuksanovic <markovuksanovic@gmail.com>",
+        "Michał Gołębiowski <m.goleb@gmail.com>",
+        "Michał Gołębiowski <m.goleb@gmail.com>",
+        "Parashuram N <code@r.nparashuram.com>",
+        "Timo Tijhof <krinklemail@gmail.com>",
+        "Vincent Voyer <vincent.voyer@algolia.com>",
+        "Florian-R <florian.r.dev@gmail.com>",
+        "Joe Doyle <valdain@gmail.com>"
+    ]
 }
 ```
 
